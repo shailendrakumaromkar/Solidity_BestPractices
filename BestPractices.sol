@@ -7,7 +7,7 @@ address owner;
 constructor () public {
     owner=msg.sender;
 }
-// adding owner
+// adding owner modifier
 modifier onlyOwner {
     require(owner==msg.sender);
     _;
