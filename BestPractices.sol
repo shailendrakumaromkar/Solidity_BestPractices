@@ -20,7 +20,7 @@ sends all of the current smart contract
 balance to a destination address – in this case to the owners address, 
 which is stored in the owner variable. */
 function destructContract() public onlyOwner {
-   selfdestruct(owner);
+  // selfdestruct(owner);
 }
 
 }
