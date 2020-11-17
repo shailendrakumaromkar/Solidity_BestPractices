@@ -33,23 +33,23 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 ![FolderStructure](https://user-images.githubusercontent.com/19868756/99430379-42738200-292f-11eb-8090-c18e1b0f9b07.jpg)
 
 
-## To start the client:
+## :high_brightness:  To start the client:
 1. Navigate to the DApp_Marketplace directory with cd DApp_Marketplace
 2. Run npm install and then npm run start
 3. Open up your browser and the project should be up on localhost:3000
 
 
-## Contract interaction on a local blockchain
+## :large_orange_diamond: Contract interaction on a local blockchain
 1. Ensure your browser has a plugin (e.g. Metamask) that allows you to interact with the Ethereum blockchain
 2. Ensure you have a local blockchain running (e.g. on Ganache)
 3. Select Localhost:9545 or Custom RPC depending on which port your Ganache blockchain is running on Interact with the web interface
 
-## Contract interaction on Rinkeby Testnet
+## :purple_circle: Contract interaction on Kovan Testnet
 1. Ensure your browser has a plugin (e.g. Metamask) that allows you to interact with the Ethereum blockchain
 2. Select Kovan Test Network and choose a Metamask account that has some testnet ether. You can obtain some Kovan testnet ether via https://faucet.kovan.network/
 Interact with the web interface
 
-## Contract interaction on Remix
+## :headphones: Contract interaction on Remix
 1. Create a new file on Remix and name it Marketplace.sol, paste the contents of Marketplace.sol from VS code
 2. Deploy the contracts on Remix and you should be good to go.
 3. If you have Ganache running, choose Web3 provider as your environment and connect to the port hosting the local blockchain (the default is http://localhost:9545). 
