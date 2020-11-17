@@ -1,6 +1,7 @@
 # Decentralised Marketplace world
 
-## About: Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH.
+## About: 
+Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH.
 
 ## Setting Up for Development
 
