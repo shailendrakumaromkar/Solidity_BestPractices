@@ -4,8 +4,7 @@
 Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH.
 
 
-:hammer_and_wrench: 
-## Technology Used:
+## :hammer_and_wrench:  Technology Used:
 - Smart Contract & Business logic - Solidity V 0.5.16
 - Front End : React JS
 - Backend : web3.JS
