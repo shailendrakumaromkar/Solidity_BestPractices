@@ -59,7 +59,7 @@ Interact with the web interface
 ## :white_check_mark: Testing
 You can run the tests by running truffle test from the DApp_Marketplace directory
 
-## Future Goals & TODOs
+## :memo: Future Goals & TODOs
 - Serve the UI from IPFS
 - Add ENS capability to resolve human-readable names to Ethereum addresses
 - Implement upgradable design or autodeprecation
