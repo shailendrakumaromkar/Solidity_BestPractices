@@ -45,6 +45,7 @@ If you get an at Deployer._preFlightCheck error upon migration, delete the contr
 
 Folder Structure
 
+![FolderStructure](https://user-images.githubusercontent.com/19868756/99430379-42738200-292f-11eb-8090-c18e1b0f9b07.jpg)
 
 
 
