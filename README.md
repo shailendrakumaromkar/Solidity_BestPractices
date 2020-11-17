@@ -26,11 +26,25 @@ Backend : web3.JS
 Development
 
 Prerequisites
-Node v12.19.0
-Solidity v0.5.16
-Truffle v5.1.47
+Node: v12.19.0,
+Solidity: v0.5.16,
+Truffle: v5.1.47,
+chai: 4.2.0,
+react: 16.8.4,
+web3: 1.0.0-beta.55
+  
 
+
+
+Setup
+Clone the repo using git clone https://github.com/nichanank/crypto-fpl.git
+cd crypto-fpl and clone the client repo using git clone https://github.com/nichanank/crypto-fpl-client.git
+Have a local blockchain running on port 7545 (e.g. using Ganache)
+From the main project folder (crypto-fpl), deploy contracts with truffle migrate --reset
+If you get an at Deployer._preFlightCheck error upon migration, delete the contracts folder at cryptofpl-client/src/contracts folder and try truffle migrate --reset again
 
 Folder Structure
+
+
 
 
