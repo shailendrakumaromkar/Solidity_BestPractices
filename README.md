@@ -10,7 +10,7 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 - Backend : web3.JS
 
 
-## :hammer_and_wrench: Setting Up for Development
+## :gear: Setting Up for Development
 1. Clone the repo using git clone https://github.com/shailendrakumaromkar
 2. cd DApp_Marketplace directory and clone the client repo using git clone https://github.com/shailendrakumaromkar
 3. Navigate to the root of the working copy (where package.json is).
@@ -19,7 +19,7 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 6. From the main project folder (crypto-fpl), deploy contracts with truffle migrate --reset
 
 
-### :laptop: Prerequisites
+### :computer: Prerequisites
 - Node: v12.19.0,
 - Solidity: v0.5.16,
 - Truffle: v5.1.47,
