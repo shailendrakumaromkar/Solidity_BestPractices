@@ -56,7 +56,7 @@ Interact with the web interface
 4. Otherwise you can select the provided Javascript VM.
 
 
-## Testing
+## :white_check_mark: Testing
 You can run the tests by running truffle test from the DApp_Marketplace directory
 
 ## Future Goals & TODOs
