@@ -1,16 +1,16 @@
-# Decentralised Marketplace world
+# :shopping_cart: Decentralised Marketplace world
 
-## About: 
+## :bulb: About: 
 Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH.
 
 
-## :hammer_and_wrench:  Technology Used:
+##  :man_technologist: Technology Used:
 - Smart Contract & Business logic - Solidity V 0.5.16
 - Front End : React JS
 - Backend : web3.JS
 
 
-## Setting Up for Development
+## :hammer_and_wrench: Setting Up for Development
 1. Clone the repo using git clone https://github.com/shailendrakumaromkar
 2. cd DApp_Marketplace directory and clone the client repo using git clone https://github.com/shailendrakumaromkar
 3. Navigate to the root of the working copy (where package.json is).
@@ -19,7 +19,7 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 6. From the main project folder (crypto-fpl), deploy contracts with truffle migrate --reset
 
 
-### Prerequisites
+### :laptop: Prerequisites
 - Node: v12.19.0,
 - Solidity: v0.5.16,
 - Truffle: v5.1.47,
@@ -28,7 +28,7 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 - web3: 1.0.0-beta.55
 
 
-### Folder Structure
+### :ledger: Folder Structure
 
 ![FolderStructure](https://user-images.githubusercontent.com/19868756/99430379-42738200-292f-11eb-8090-c18e1b0f9b07.jpg)
 
