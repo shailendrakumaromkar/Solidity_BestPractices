@@ -1,4 +1,4 @@
-contract  {
+contract  AttendanceRegister{
     struct Student{
             string name;
             uint class;
