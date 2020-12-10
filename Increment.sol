@@ -1,7 +1,7 @@
 pragma solidity 0.6.0;
 
 
-contract  Increment{
+contract  {
     uint counter;
     //increment function
     function incrementCounter () public {
