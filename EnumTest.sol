@@ -1,6 +1,6 @@
 pragma solidity 0.6.0;
 
-contract  EnumTest{
+contract  {
 
     enum Direction {North, South, East,West}
     Direction dir;
