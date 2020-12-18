@@ -13,6 +13,13 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 3. Have at least 5 tests for each smart contract :heavy_check_mark: 
 4. Smart contract should be deployed to a testnet :heavy_check_mark: 
 
+#### Frontend
+1. Have a development server to serve the frontend interaction of the application locally (You should be able to visit a local URL and interact with the application) :heavy_check_mark: 
+2. Frontend should work with web3.js / ethers.js, Infura and MetaMask to: 
+    - Recognize and display current MM account :heavy_check_mark: 
+    - Sign transactions that change a deployed contract’s state using MetaMask :heavy_check_mark: 
+    - Reflect the successful state change in the UI :heavy_check_mark: 
+
 
 ##  :man_technologist: Technology Used:
 - Smart Contract & Business logic - Solidity V 0.5.16
