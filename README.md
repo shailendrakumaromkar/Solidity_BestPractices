@@ -7,7 +7,7 @@ Decentralised Marketplace is the online platform that runs on the Ethereum block
 #### Smart Contract
 - [x] &#x2611; 1. Be a Truffle project
 - [x] :*:\check:: 2. Have a smart contract(s) commented according to the specs which:
-  - [x] - Have a circuit breaker design pattern and at least one other design pattern in Module 10 Lesson 1
+  - [x] :heavy_check_mark: - Have a circuit breaker design pattern and at least one other design pattern in Module 10 Lesson 1
   - [x] - Have security features to protect against at least two attack vectors outlined in Module 9 Lesson 3
   - [x] - Use a library (SafeMath.sol, etc) or extend another contract
 - [x] 3. Have at least 5 tests for each smart contract
