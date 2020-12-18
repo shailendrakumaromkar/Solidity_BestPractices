@@ -4,6 +4,16 @@
 Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH.
 
 
+#### Smart Contract
+- [x] 1. Be a Truffle project
+- [x] 2. Have a smart contract(s) commented according to the specs which:
+  - [x] - Have a circuit breaker design pattern and at least one other design pattern in Module 10 Lesson 1
+  - [x] - Have security features to protect against at least two attack vectors outlined in Module 9 Lesson 3
+  - [x] - Use a library (SafeMath.sol, etc) or extend another contract
+- [x] 3. Have at least 5 tests for each smart contract
+- [x] 4. Smart contract should be deployed to a testnet
+
+
 ##  :man_technologist: Technology Used:
 - Smart Contract & Business logic - Solidity V 0.5.16
 - Front End : React JS
