@@ -1,7 +1,7 @@
 # :shopping_cart: Decentralised Marketplace world DApp
 
 ## :bulb: About: 
-Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH.
+Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH currency.
 
 
 #### Smart Contract
