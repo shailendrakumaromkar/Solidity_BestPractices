@@ -2,7 +2,7 @@ pragma solidity 0.6.0;
 
 contract BestPractice {
 
-//self destructing  
+//self destructing  contract
 address owner;
 
 // defining
