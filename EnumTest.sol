@@ -11,7 +11,7 @@ contract EnumTest {
         dir= Direction.East;
         
     }
-    //functions
+    //function
     function getDirection() public view returns (Direction) {
         return dir;
     }
