@@ -7,7 +7,7 @@ contract div {
     uint256 public totalAmount;
     bool public isBetActive=false;
     
-    // contract constructor, runs once at contract deployment
+    // contract constructor runs once at contract deployment
     constructor()  {
         // the manager is account address that deploys the contract
         manager = msg.sender; 
