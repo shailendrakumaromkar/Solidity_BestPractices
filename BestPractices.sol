@@ -5,7 +5,7 @@ contract BestPractice {
 //self owner  
 address owner;
 
-// defining
+// definings
 constructor () public {
     owner=msg.sender;
 }
