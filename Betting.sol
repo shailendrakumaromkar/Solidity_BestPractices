@@ -11,7 +11,7 @@ contract Betting {
         manager = msg.sender; 
     }
 
-    // this fallback payable function will be automatically called when somebody
+    // this fallback payable functions will be automatically called when somebody
     //sends ether to our contract address
     function betAmount() payable public {
         require(msg.value >= 0.01 ether);
