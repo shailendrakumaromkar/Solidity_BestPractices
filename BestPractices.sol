@@ -2,7 +2,7 @@ pragma solidity 0.6.0;
 
 contract BestPractice {
 
-//self owners 
+//self owner
 address owner;
 
 // definings
