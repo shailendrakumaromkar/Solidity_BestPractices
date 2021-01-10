@@ -5,7 +5,7 @@ contract Betting {
       address payable[] public  players; // dynamic array with players addresses
     address payable public manager; // contract manager
 
-    // contract constructor runs once at contract deployment
+    // contract constructor run once at contract deployment
     constructor()  {
         // the manager is account address that deploys the contract
         manager = msg.sender; 
