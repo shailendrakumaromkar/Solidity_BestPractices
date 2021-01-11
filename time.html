@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Documents</title>
+</head>
+<body>
+    <button onclick="clearInterval(clock)">Stop</button>
+    <p id="paraid"></p>
+
+    <script type="text/javascript">
+    
+        var clock= setInterval(timer,1005)
+
+        function timer(){
+            var d= new Date();
+            var time = d.toLocaleTimeString();
+            document.getElementById('paraid').innerHTML=time;
+        }
+    
+    </script>
+</body>
+</html>
