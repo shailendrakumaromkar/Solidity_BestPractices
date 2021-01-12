@@ -4,7 +4,7 @@
 Decentralised Marketplace is the online platform that runs on the Ethereum blockchain where Seller can add new Products & their prices. And Buyer can purchase them by paying in cryptocurrency using ETH currency.
 
 
-#### Smart Contract
+#### Smart Contracts
 1. Be a Truffle project :heavy_check_mark: 
 2. Have a smart contract commented according to the specs which: :heavy_check_mark: 
    - Have a circuit breaker design pattern and at least one other design pattern in Module 10 Lesson 1 :heavy_check_mark: 
