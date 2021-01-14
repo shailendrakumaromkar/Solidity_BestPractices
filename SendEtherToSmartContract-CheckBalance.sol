@@ -7,7 +7,7 @@ contract User {
   fallback () external payable {
 }
     
-  //This will give balance of smart contract   address
+  //This will give balances of smart contract   address
   function balanceOfSC() public view returns (uint) {
         return address(this).balance;
     }
