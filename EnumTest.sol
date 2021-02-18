@@ -6,7 +6,7 @@ contract EnumTest {
     Direction dir;
     Direction constant defaultDirection=Direction.West;
 
-//   functionssxsdxsaaa
+//   functionssxsdxsaaad
     function setDirection() public {
         dir= Direction.East;
         
