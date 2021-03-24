@@ -3,7 +3,7 @@ pragma solidity 0.6.0;
 
 contract Increment {
     uint counter;
-    //incrementssssssssssssssssssss
+    //incrementsssssssssssssssssss
     function incrementCounter () public {
        counter=counter+1;
     }
