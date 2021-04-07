@@ -7,7 +7,7 @@ contract Increment {
     function incrementCounter () public {
        counter=counter+1;
     }
-    // increment  functionssssssssssssssssssss
+    // increment  functionsssssssssssssssssss
    function getIncrement() public view returns (uint) {
        return counter;
    }
