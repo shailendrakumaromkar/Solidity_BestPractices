@@ -28,7 +28,7 @@ contract div {
         return address(this).balance; // return contract balance
     }
 
-    // returns a very big pseodo-random integer no.
+    // returns a very big pseodo-random integer no.s
     function random() public view returns(uint256) {
         return uint8(uint256(keccak256(abi.encodePacked(block.difficulty, block.timestamp, players.length))))%100;
     }
