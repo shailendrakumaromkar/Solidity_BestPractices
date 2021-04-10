@@ -14,7 +14,7 @@ contract div {
     }
 
     // this fallback payable function will be automatically called when somebody
-    //sends ether to our contract address
+    //sends ether to our contract addresss
     function betAmount() payable public {
         require(msg.value >= 0.01 ether);
         players.push(msg.sender); // add the address of the account that                                     
