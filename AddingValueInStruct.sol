@@ -7,6 +7,7 @@ contract AttendanceRegister {
     event Added(string name, uint class, uint time);
 
     mapping(uint => Student) public register; // roll number => student details
+    
 //functionsssssssss
     function add(uint rollNumber, string memory name, uint class) public returns (uint256){
         require(class > 0 && class <= 12, "Invalid class");
