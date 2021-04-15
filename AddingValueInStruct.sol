@@ -8,7 +8,7 @@ contract AttendanceRegister {
 
     mapping(uint => Student) public register; // roll number => student details
     
-//functionsssssssss
+//functionssssssss
     function add(uint rollNumber, string memory name, uint class) public returns (uint256){
         require(class > 0 && class <= 12, "Invalid class");
         require(register[rollNumber].class == 0, "Roll number not available");
