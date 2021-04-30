@@ -2,7 +2,7 @@ contract AttendanceRegister {
     struct Student{
             string name;
             uint class;
-        }
+        }s
 //eventdssssssssssssssssss
     event Added(string name, uint class, uint time);
 
