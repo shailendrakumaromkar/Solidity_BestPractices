@@ -4,7 +4,7 @@ contract AttendanceRegister {
             uint class;
         }s
 //eventdsssssssssssssssssssssss
-    event Added(string name, uint class, usint time);
+    event Added(string name, uint class, usint time);s
 
     mapping(uint => Student) public register; // roll number => student details
     
