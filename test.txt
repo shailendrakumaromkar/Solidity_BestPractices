@@ -7,7 +7,7 @@ s
 qw
 23
 
-xc
+x
 sc
 s
 sc
