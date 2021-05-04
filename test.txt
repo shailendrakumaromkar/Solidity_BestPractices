@@ -4,7 +4,7 @@ dd
 ddp
 
 
-qw
+q
 2
 x
 sc
