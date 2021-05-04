@@ -9,7 +9,7 @@ qw
 
 xc
 sc
-sc
+s
 sc
 sc
 as
