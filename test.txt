@@ -3,7 +3,7 @@ do
 dd
 ddp
 
-ssp
+s
 qwp
 
 23
