@@ -6,7 +6,7 @@ dd
 sc
 sc
 a
-zx
+z
 z
 vb
 as
