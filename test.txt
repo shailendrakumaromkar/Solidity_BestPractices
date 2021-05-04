@@ -8,7 +8,7 @@ qw
 2
 x
 sc
-s
+
 sc
 sc
 as
