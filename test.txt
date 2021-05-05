@@ -9,7 +9,7 @@ s
 
 vb
 as
-qw
+q
 z
 azp
 as
