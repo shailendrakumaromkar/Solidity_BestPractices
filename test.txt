@@ -7,7 +7,7 @@ s
 
 as
 z
-azp
+az
 as
 asp
 asas
