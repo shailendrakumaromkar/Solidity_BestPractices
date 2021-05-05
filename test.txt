@@ -3,7 +3,7 @@ do
 dd
 d
 
-s
+
 s
 
 
