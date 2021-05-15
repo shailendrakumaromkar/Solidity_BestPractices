@@ -10,5 +10,5 @@ ssa
 sssszz
 sssz
 zzzz
-sza
+szaz
 z
