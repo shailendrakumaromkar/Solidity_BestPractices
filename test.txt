@@ -2,7 +2,7 @@
 c
 s
 s
-sx
+sxs
 sx
 sxs
 sxx
