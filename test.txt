@@ -5,6 +5,6 @@ s
 sxs
 sxss
 sxsss
-sxxs
+sxxss
 xss
 ss
