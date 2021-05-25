@@ -7,5 +7,5 @@ xxs s
 xx
 xs
 xxxx
-xxx
+xxxs
 xxx
