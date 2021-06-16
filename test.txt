@@ -8,5 +8,5 @@ ss
 ssxs
 sc
 xs
-xs
+xsxs
 xsxs
