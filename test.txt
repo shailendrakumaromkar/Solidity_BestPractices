@@ -6,7 +6,7 @@ s
 sc
 ss
 ssxscccccc
-scxsxscc
+scxsxsccc
 xsxsxscc
 xsxsxsxscc
 xsxsxsxsxs
