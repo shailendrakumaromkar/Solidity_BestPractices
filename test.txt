@@ -5,6 +5,6 @@ cccc
 c
 ccc
 c
-ccc
+cccc
 cc
 c
