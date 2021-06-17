@@ -3,7 +3,7 @@ c
 xs
 ss
 s
-s
+sc
 ss
 ssxscccccc
 scxsxscc
