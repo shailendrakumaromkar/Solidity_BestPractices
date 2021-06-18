@@ -6,3 +6,4 @@ o
 oo
 ooo
 o
+s
