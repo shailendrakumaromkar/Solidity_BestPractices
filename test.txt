@@ -1,10 +1,1 @@
-c
-c
-c
-cccc
-c
-ccc
-c
-cccc
-cc
-c
+
