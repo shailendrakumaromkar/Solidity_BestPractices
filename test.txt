@@ -4,5 +4,5 @@ m
 n
 n
 nm
-m
+mn
 mmm
