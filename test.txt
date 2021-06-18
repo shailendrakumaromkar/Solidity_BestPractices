@@ -6,5 +6,5 @@ ppoo
 pppppoo
 ppppoooo
 pppoo
-o
+oo
 o
