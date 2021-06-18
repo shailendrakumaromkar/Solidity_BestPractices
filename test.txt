@@ -4,7 +4,7 @@ p
 po
 ppoo
 pppppoo
-ppppooo
+ppppoooo
 pppoo
 o
 o
