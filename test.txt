@@ -6,4 +6,4 @@ n
 nm
 mn
 mmm
-n
+nm
