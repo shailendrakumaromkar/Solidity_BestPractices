@@ -1,8 +1,1 @@
-cc
 c
-c
-c11
-ccc
-cc
-cc
-cc
