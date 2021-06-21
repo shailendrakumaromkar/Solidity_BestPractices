@@ -4,5 +4,5 @@ cc
 c
 c
 c
-cc
+ccc
 c
